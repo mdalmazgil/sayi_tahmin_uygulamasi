@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:sayi_tahmin_uygulamasi/SonucEkrani.dart';
-import 'dart:math';
+import 'dart:math'; // Matematik Kütüphanesi
 
 class TahminEkrani extends StatefulWidget {
   const TahminEkrani({Key? key}) : super(key: key);
