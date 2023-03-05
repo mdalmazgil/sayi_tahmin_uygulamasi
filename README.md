@@ -1,16 +1,5 @@
 # sayi_tahmin_uygulamasi
 
-A new Flutter project.
+Flutter kullanarak geliştirmiş olduğum sayı tahmin uygulaması.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/126698964/222982337-03f75eb3-8f1d-4d9b-a031-a05e2a0b0552.png)
